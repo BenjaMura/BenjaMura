@@ -2,7 +2,7 @@
 
 <h1> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Wave.gif" alt="Wave" height="40" width="40" title="Wave" /> Hi, I’m Benjamin Muratore</h1>
 
-<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.jpg" alt="BenjaMura" width="40" border-radius="50"/> &nbsp About Me &nbsp <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.jpg" alt="BenjaMura" width="40" border-radius="50"/> </h2>
+<h2> <span style="border-radius: 50"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.jpg" alt="BenjaMura" width="40" /></span> &nbsp About Me &nbsp <span style="border-radius: 50"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.jpg" alt="BenjaMura" width="40" border-radius="50"/></span> </h2>
 
 <h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="30" width="50"/> &nbsp Let's Connect &nbsp <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="30" width="50"/> </h2>
 
@@ -15,7 +15,7 @@
 
 
 
-<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Learning.webp" alt="Learning" width="50"> &nbsp Learning &nbsp <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Learning.webp" alt="Learning" width="50"> </h2>
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40"> &nbsp Learning &nbsp <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40"> </h2>
 
 
 
