@@ -8,14 +8,12 @@
 
 <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.png" alt="BenjaMura" width="50" title="Nice pic right?"/></a>
 
-<h3>About Me</h3>
+<h3> <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a> &nbsp About Me &nbsp <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="You know where to find me!"/></a> </h3>
 
-<a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
 <a href="mailto:benjaminmuratore1@gmail.com" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Gmail.png" alt="Gmail" height="40" width="40" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/benjamín-muratore-8a5928192" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Linkedin.png" alt="Linkedin" height="40" width="40" title="Linkedin"/></a>
 <a href="https://www.facebook.com/benjamin.muratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Facebook.png" alt="Facebook" height="40" width="40" title="Facebook"/></a>
 <a href="https://www.instagram.com/benjaminmuratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Instagram.png" alt="Instagram" height="40" width="40" title="Instagram"/></a>
-<a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="You know where to find me!"/></a>
 
 <hr/>
 
