@@ -2,7 +2,7 @@
 
 <h1> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Wave.gif" alt="Wave" height="40" width="40" title="Wave" /> Hi, I’m Benjamin Muratore</h1>
 
-<h2>👨‍💻 About Me 👨‍💻</h2>
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/BenjaMura.jpg" alt="BenjaMura" height="40" width="40"/> About Me <img src="https://github.com/BenjaMura/BenjaMura/blob/main/BenjaMura.jpg" alt="BenjaMura" height="40" width="40"/> </h2>
 
 <h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Handshake.gif" alt="Handshake" height="30" width="50"/> Let's Connect <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Handshake.gif" alt="Handshake" height="30" width="50"/> </h2>
 
@@ -11,11 +11,11 @@
 <a href="https://www.facebook.com/benjamin.muratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Facebook.png" alt="Facebook" height="50" width="50" title="Facebook" /></a>
 <a href="https://www.instagram.com/benjaminmuratore/" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Instagram.png" alt="Instagram" height="50" width="50" title="Instagram" /></a>
 
-<h2>🛠️ Skills 🛠️</h2>
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Skills.webp" alt="Skills" width="30"> Skills <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Skills.webp" alt="Skills" width="30"> </h2>
 
 
 
-<h2>🛠️ Learning 🛠️</h2>
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Learning.webp" alt="Learning" width="30"> Learning <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Learning.webp" alt="Learning" width="30"> </h2>
 
 
 
