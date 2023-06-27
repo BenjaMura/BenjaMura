@@ -30,6 +30,7 @@
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Render.png" alt="Render" title="Render" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Sequelize.png" alt="Sequelize" title="Sequelize" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Slack.png" alt="Slack" title="Slack" height="40" width="40">
+<img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/VisualStudioCode.png" alt="VSCode" title="VSCode" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Vite.png" alt="Vite" title="Vite" height="40" width="40">
 
 <h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40"> &nbsp Learning &nbsp <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40"> </h2>
