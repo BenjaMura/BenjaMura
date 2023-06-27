@@ -1,25 +1,25 @@
 <div align="center">
 
-<a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Wave.gif" alt="Wave" width="50" title="Welcome!"/></a>
+<a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Wave.gif" alt="Wave" width="50" title="Welcome!"/></a>
 <br/>
-<a href="https://github.com/BenjaMura/BenjaMura"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi!+I'm+Benjamin;Full+Stack+Web+Developer" alt="Title" title="Hi, there!"/></a>
+<a href="https://github.com/BenjaMura"><img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi!+I'm+Benjamin;Full+Stack+Web+Developer" alt="Title" title="Hi, there!"/></a>
 
 <hr/>
 
-<a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.png" alt="BenjaMura" width="50" title="Nice pic right?"/></a>
+<a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/BenjaMura.png" alt="BenjaMura" width="50" title="Nice pic right?"/></a>
 
 <h3>About Me</h3>
 
-<a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
+<a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
 <a href="mailto:benjaminmuratore1@gmail.com" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Gmail.png" alt="Gmail" height="40" width="40" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/benjamín-muratore-8a5928192" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Linkedin.png" alt="Linkedin" height="40" width="40" title="Linkedin"/></a>
 <a href="https://www.facebook.com/benjamin.muratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Facebook.png" alt="Facebook" height="40" width="40" title="Facebook"/></a>
 <a href="https://www.instagram.com/benjaminmuratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Instagram.png" alt="Instagram" height="40" width="40" title="Instagram"/></a>
-<a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="You know where to find me!"/></a>
+<a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Handshake.gif" alt="Handshake" height="40" width="60" title="You know where to find me!"/></a>
 
 <hr/>
 
-<h3> <a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h3>
+<h3> <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Css.png" alt="CSS" title="CSS" height="40" width="40"></a>
 <a href="https://www.dropbox.com" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Dropbox.png" alt="Dropbox" title="Dropbox" height="40" width="40"></a>
@@ -43,7 +43,7 @@
 
 <hr/>
 
-<h3> <a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h3>
+<h3> <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h3>
 
 <a href="https://getbootstrap.com" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Bootstrap.png" alt="Bootstrap" title="Bootstrap" height="40" width="40"></a>
 <a href="https://mochajs.org" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Mocha.png" alt="Mocha" title="Mocha" height="40" width="40"></a>
@@ -54,7 +54,7 @@
 
 <hr/>
 
-<h3> <a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Bars.webp" alt="Bars" width="30" title="Stats"></a> &nbsp GitHub Statistics &nbsp <a href="https://github.com/BenjaMura/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Bars.webp" alt="Bars" width="30" title="Keeping up"></a> </h3>
+<h3> <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Bars.webp" alt="Bars" width="30" title="Stats"></a> &nbsp GitHub Statistics &nbsp <a href="https://github.com/BenjaMura"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Bars.webp" alt="Bars" width="30" title="Keeping up"></a> </h3>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BenjaMura&theme=ambient-gradient&hide_border=true&currStreakNum=yellow&border_radius=20&ring=gold&fire=orange&currStreakLabel=gold&card_width=700)
 
