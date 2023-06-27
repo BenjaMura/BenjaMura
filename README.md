@@ -23,7 +23,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40"> My GitHub Stats</h2>
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Bars.webp" width="40"> GitHub Stats <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Bars.webp" width="40"> </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BenjaMura&theme=ambient-gradient&hide_border=true&currStreakNum=yellow&border_radius=20&ring=gold&fire=orange&currStreakLabel=gold&card_width=700)](https://git.io/streak-stats)
 
