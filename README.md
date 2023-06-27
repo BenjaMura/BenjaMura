@@ -1,13 +1,14 @@
 <div align="center">
 
-<h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="Wave" height="60" width="60" title="Wave" /> Hi, I’m Benjamin Muratore</h1>
+<h1> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Wave.gif" alt="Wave" height="40" width="40" title="Wave" /> Hi, I’m Benjamin Muratore</h1>
 
-<svg width="125" height="80">
+<!-- <svg width="125" height="80">
   <rect x="15" y="20" width="50" height="50" rx="10" ry="10" fill="#C13B3A"/>
   <text x="40" y="47" text-anchor="middle" alignment-baseline="middle" fill="gold" font-size="25" font-weight="bold">B</text>
   <rect x="60" y="20" width="50" height="50" rx="10" ry="10" fill="#3B5BC1"/>
   <text x="85" y="47" text-anchor="middle" alignment-baseline="middle" fill="gold" font-size="25" font-weight="bold">M</text>
 </svg>
+-->
 
 <h2>👨‍💻 About Me 👨‍💻</h2>
 
