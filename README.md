@@ -2,28 +2,24 @@
 
 <h1> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Wave.gif" alt="Wave" height="40" width="40" title="Wave" /> Hi, I’m Benjamin Muratore</h1>
 
-<!-- <svg width="125" height="80">
-  <rect x="15" y="20" width="50" height="50" rx="10" ry="10" fill="#C13B3A"/>
-  <text x="40" y="47" text-anchor="middle" alignment-baseline="middle" fill="gold" font-size="25" font-weight="bold">B</text>
-  <rect x="60" y="20" width="50" height="50" rx="10" ry="10" fill="#3B5BC1"/>
-  <text x="85" y="47" text-anchor="middle" alignment-baseline="middle" fill="gold" font-size="25" font-weight="bold">M</text>
-</svg>
--->
-
 <h2>👨‍💻 About Me 👨‍💻</h2>
 
-<h2>📧 Let's Connect 📧</h2>
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Handshake.gif" alt="Handshake" height="30" width="50"/> Let's Connect <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Handshake.gif" alt="Handshake" height="30" width="50"/> </h2>
 
-<a href="mailto:benjaminmuratore1@gmail.com" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Gmail.png" alt="Gmail" height="60" width="60" title="Gmail" /></a>
-<a href="https://www.linkedin.com/in/benjamín-muratore-8a5928192/" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Linkedin.png" alt="Linkedin" height="60" width="60" title="Linkedin" /></a>
-<a href="https://www.facebook.com/benjamin.muratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Facebook.png" alt="Facebook" height="60" width="60" title="Facebook" /></a>
-<a href="https://www.instagram.com/benjaminmuratore/" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Instagram.png" alt="Instagram" height="60" width="60" title="Instagram" /></a>
+<a href="mailto:benjaminmuratore1@gmail.com" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Gmail.png" alt="Gmail" height="50" width="50" title="Gmail" /></a>
+<a href="https://www.linkedin.com/in/benjamín-muratore-8a5928192/" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Linkedin.png" alt="Linkedin" height="50" width="50" title="Linkedin" /></a>
+<a href="https://www.facebook.com/benjamin.muratore" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Facebook.png" alt="Facebook" height="50" width="50" title="Facebook" /></a>
+<a href="https://www.instagram.com/benjaminmuratore/" target="blank"><img src="https://github.com/BenjaMura/BenjaMura/blob/main/Instagram.png" alt="Instagram" height="50" width="50" title="Instagram" /></a>
 
 <h2>🛠️ Skills 🛠️</h2>
 
 
 
-<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Bars.webp" width="40"> GitHub Stats <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Bars.webp" width="40"> </h2>
+<h2>🛠️ Learning 🛠️</h2>
+
+
+
+<h2> <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Bars.webp" alt="Bars" width="30"> GitHub Stats <img src="https://github.com/BenjaMura/BenjaMura/blob/main/Bars.webp" alt="Bars" width="30"> </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=BenjaMura&theme=ambient-gradient&hide_border=true&currStreakNum=yellow&border_radius=20&ring=gold&fire=orange&currStreakLabel=gold&card_width=700)](https://git.io/streak-stats)
 
