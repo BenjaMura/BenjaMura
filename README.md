@@ -18,7 +18,7 @@
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Evernote.png" alt="Evernote" title="Evernote" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Express.png" alt="Express" title="Express" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Git.png" alt="Git" title="Git" height="40" width="40">
-<img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Html.png" alt="Html" title="Html" height="40" width="40">
+<img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Html.png" alt="HTML" title="HTML" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Javascript.png" alt="Javascript" title="Javascript" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Jest.png" alt="Jest" title="Jest" height="40" width="40">
 <img src="https://github.com/BenjaMura/BenjaMura/blob/main/images/Nodejs.png" alt="Nodejs" title="Nodejs" height="40" width="40">
