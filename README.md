@@ -2,7 +2,7 @@
 
 <a href="https://github.com/BenjaMura"><img src="images/Wave.gif" alt="Wave" width="50" title="Welcome!"/></a>
 <br/>
-<a href="https://github.com/BenjaMura"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Benjamin;Full+Stack+Web+Developer&center=true&size=32" alt="Title" title="Hi, there!"/></a>
+<a href="https://github.com/BenjaMura"><img src="https://readme-typing-svg.herokuapp.com?font=Murecho&size=32&center=true&pause=1000&width=435&lines=Hi!+I'm+Benjamin;Full+Stack+Web+Developer" alt="Title" title="Hi, there!"/></a>
 
 <hr/>
 
@@ -14,9 +14,9 @@
 <br/>
 💡 I find great satisfaction in solving complex problems and puzzles. My logical and analytical thinking allows me to face challenges in a more structured way to find creative solutions. At the same time, I consider it very important to think outside the box to find unique and efficient solutions to problems.
 <br/>
-🚀 I am motivated by continually learning and keeping up to date with the latest trends and advances due to the constant evolution of technology. I believe in the importance of lifelong learning and am an enthusiastic adopter of new technologies and frameworks.
+🚀 I stay motivated to continuously learn and keep up with the latest trends and advances due to the constant evolution of technology. I believe in the importance of lifelong learning and am an enthusiastic adopter of new technologies and frameworks.
 <br/>
-🏃 I enjoy doing sports in my free time. I find it not only entertaining, but also a great way to relax after a long day of programming.
+🏃 I do a lot of sports in my free time. I find it not only entertaining, but also a great way to relax after a long day of programming.
 
 <a href="https://github.com/BenjaMura"><img src="images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
 <a href="mailto:benjaminmuratore1@gmail.com"><img src="images/Gmail.png" alt="Gmail" height="40" width="40" title="Gmail"/></a>
