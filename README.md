@@ -8,15 +8,21 @@
 
 <a href="https://github.com/BenjaMura"><img src="images/BenjaMura.png" alt="BenjaMura" width="50" title="Nice pic right?"/></a>
 
+```
 👨‍💻 I am passionate about the idea of using my coding skills to create meaningful and impactful solutions. Whether it's developing software that improves efficiency, solving real-world problems, or contributing to projects that make a difference.
-<br/>
+```
+```
 🤝 I enjoy being part of a larger community where I can learn from others and get to have a positive impact. I believe in the important power of collaboration and the mutual exchange of knowledge.
-<br/>
+```
+```
 💡 I find great satisfaction in solving complex problems and puzzles. My logical and analytical thinking allows me to face challenges in a more structured way to find creative solutions. At the same time, I consider it very important to think outside the box to find unique and efficient solutions to problems.
-<br/>
+```
+```
 🚀 I stay motivated to continuously learn and keep up with the latest trends and advances due to the constant evolution of technology. I believe in the importance of lifelong learning and am an enthusiastic adopter of new technologies and frameworks.
-<br/>
+```
+```
 🏃 I do a lot of sports in my free time. I find it not only entertaining, but also a great way to relax after a long day of programming.
+```
 
 <a href="https://github.com/BenjaMura"><img src="images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
 <a href="mailto:benjaminmuratore1@gmail.com"><img src="images/Gmail.png" alt="Gmail" height="40" width="40" title="Gmail"/></a>
@@ -27,7 +33,7 @@
 
 ---
 
-<h2> <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h2>
+<h3> <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h3>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/Javascript.png" alt="Javascript" title="Javascript" height="40" width="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/Html.png" alt="HTML" title="HTML" height="40" width="40"></a>
@@ -48,7 +54,7 @@
 
 ---
 
-<h2> <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h2>
+<h3> <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h3>
 
 <a href="https://www.typescriptlang.org"><img src="images/Typescript.png" alt="Typescript" title="Typescript" height="40" width="40"></a>
 <a href="https://tailwindcss.com"><img src="images/Tailwind.png" alt="Tailwind" title="Tailwind" height="40" width="40"></a>
@@ -59,7 +65,7 @@
 
 ---
 
-<h2> <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Stats"></a> &nbsp GitHub Statistics &nbsp <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Keeping up"></a> </h2>
+<h3> <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Stats"></a> &nbsp GitHub Statistics &nbsp <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Keeping up"></a> </h3>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BenjaMura&theme=ambient-gradient&hide_border=true&currStreakNum=yellow&border_radius=20&ring=gold&fire=orange&currStreakLabel=gold&card_width=700)
 
