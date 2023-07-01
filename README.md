@@ -4,7 +4,7 @@
 <br/>
 <a href="https://github.com/BenjaMura"><img src="https://readme-typing-svg.herokuapp.com?font=Murecho&size=32&center=true&pause=1000&width=435&lines=Hi!+I'm+Benjamin;Full+Stack+Web+Developer" alt="Title" title="Hi, there!"/></a>
 
-<hr/>
+---
 
 <a href="https://github.com/BenjaMura"><img src="images/BenjaMura.png" alt="BenjaMura" width="50" title="Nice pic right?"/></a>
 
@@ -25,9 +25,9 @@
 <a href="https://www.instagram.com/benjaminmuratore"><img src="images/Instagram.png" alt="Instagram" height="40" width="40" title="Instagram"/></a>
 <a href="https://github.com/BenjaMura"><img src="images/Handshake.gif" alt="Handshake" height="40" width="60" title="You know where to find me!"/></a>
 
-<hr/>
+---
 
-<h3> <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h3>
+<h2> <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/Javascript.png" alt="Javascript" title="Javascript" height="40" width="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/Html.png" alt="HTML" title="HTML" height="40" width="40"></a>
@@ -46,9 +46,9 @@
 <a href="https://www.postman.com"><img src="images/Postman.png" alt="Postman" title="Postman" height="40" width="40"></a>
 <a href="https://render.com"><img src="images/Render.png" alt="Render" title="Render" height="40" width="40"></a>
 
-<hr/>
+---
 
-<h3> <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h3>
+<h2> <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h2>
 
 <a href="https://www.typescriptlang.org"><img src="images/Typescript.png" alt="Typescript" title="Typescript" height="40" width="40"></a>
 <a href="https://tailwindcss.com"><img src="images/Tailwind.png" alt="Tailwind" title="Tailwind" height="40" width="40"></a>
@@ -57,9 +57,9 @@
 <a href="https://vitest.dev"><img src="images/Vitest.png" alt="Vitest" title="Vitest" height="40" width="40"></a>
 <a href="https://www.netlify.com"><img src="images/Netlify.png" alt="Netlify" title="Netlify" height="40" width="40"></a>
 
-<hr/>
+---
 
-<h3> <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Stats"></a> &nbsp GitHub Statistics &nbsp <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Keeping up"></a> </h3>
+<h2> <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Stats"></a> &nbsp GitHub Statistics &nbsp <a href="https://github.com/BenjaMura"><img src="images/Bars.webp" alt="Bars" width="30" title="Keeping up"></a> </h2>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BenjaMura&theme=ambient-gradient&hide_border=true&currStreakNum=yellow&border_radius=20&ring=gold&fire=orange&currStreakLabel=gold&card_width=700)
 
