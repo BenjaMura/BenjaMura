@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/BenjaMura"><img src="images/Wave.gif" alt="Wave" width="50" title="Welcome!"/></a>
-<br/>
+
 <a href="https://github.com/BenjaMura"><img src="https://readme-typing-svg.herokuapp.com?font=Murecho&size=32&center=true&pause=1000&width=435&lines=Hi!+I'm+Benjamin;Full+Stack+Web+Developer" alt="Title" title="Hi, there!"/></a>
 
 ---
 
-<a href="https://github.com/BenjaMura"><img src="images/BenjaMura.png" alt="BenjaMura" width="50" title="Nice pic right?"/></a>
+<a href="https://github.com/BenjaMura"><img src="images/BenjaMura.png" alt="BenjaMura" width="100" title="Nice pic right?"/></a>
 
 ```
 👨‍💻 I am passionate about the idea of using my coding skills to create meaningful and impactful solutions. Whether it's developing software that improves efficiency, solving real-world problems, or contributing to projects that make a difference.
@@ -21,7 +21,7 @@
 🚀 I stay motivated to continuously learn and keep up with the latest trends and advances due to the constant evolution of technology. I believe in the importance of lifelong learning and am an enthusiastic adopter of new technologies and frameworks.
 ```
 ```
-🏃 I do a lot of sports in my free time. I find it not only entertaining, but also a great way to relax after a long day of programming.
+🏃 I do a lot of exercise in my free time. I find it not only entertaining, but also a great way to relax after a long day of programming.
 ```
 
 <a href="https://github.com/BenjaMura"><img src="images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
