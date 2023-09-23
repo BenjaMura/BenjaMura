@@ -6,22 +6,22 @@
 
 ---
 
-<a href="https://github.com/BenjaMura"><img src="images/BenjaMura.png" alt="BenjaMura" width="100" title="Nice pic right?"/></a>
+<a href="https://github.com/BenjaMura"><img src="images/BenjaMura.png" alt="BenjaMura" width="100" title="BenjaMura"/></a>
 
 ```
-👨‍💻 I am passionate about the idea of using my coding skills to create meaningful and impactful solutions. Whether it's developing software that improves efficiency, solving real-world problems, or contributing to projects that make a difference.
+👨‍💻 I'm driven by the idea of using my coding skills to create meaningful and impactful solutions. Whether it's developing software that improves efficiency, solving real-world problems, or contributing to projects that make a difference.
 ```
 ```
-🤝 I enjoy being part of a larger community where I can learn from others and get to have a positive impact. I believe in the important power of collaboration and the mutual exchange of knowledge.
+🤝 Being part of a big community where we can learn from others and have a positive impact is something I value and enjoy beyond measure. I believe in the important power of collaboration and the mutual exchange of knowledge.
 ```
 ```
-💡 I find great satisfaction in solving complex problems and puzzles. My logical and analytical thinking allows me to face challenges in a more structured way to find creative solutions. At the same time, I consider it very important to think outside the box to find unique and efficient solutions to problems.
+💡 Solving complex problems and puzzles gives me a great satisfaction. My logical and analytical thinking allows me to face challenges in a more structured way to find creative solutions. At the same time, I consider it very important to think outside the box to find unique and efficient solutions to problems.
 ```
 ```
-🚀 I stay motivated to continuously learn and keep up with the latest trends and advances due to the constant evolution of technology. I believe in the importance of lifelong learning and am an enthusiastic adopter of new technologies and frameworks.
+🚀 The ever-evolving nature of technology fuels my motivation to constantly learn and stay on top of the latest trends and advancements. I wholeheartedly support the concept of lifelong learning and enthusiastically embrace new technologies and frameworks.
 ```
 ```
-🏃 I do a lot of exercise in my free time. I find it not only entertaining, but also a great way to relax after a long day of programming.
+🏃 In my free time I exercise regularly. I find it not only entertaining but also a great way to relax after a long day of programming.
 ```
 
 <a href="https://github.com/BenjaMura"><img src="images/Handshake.gif" alt="Handshake" height="40" width="60" title="Let's connect!"/></a>
@@ -34,6 +34,8 @@
 ---
 
 <h3> <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="My stack"></a> &nbsp Skills &nbsp <a href="https://github.com/BenjaMura"><img src="images/Skills.webp" alt="Skills" width="30" title="Take a look"> </h3>
+
+
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="images/Javascript.png" alt="Javascript" title="Javascript" height="40" width="40"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="images/Html.png" alt="HTML" title="HTML" height="40" width="40"></a>
@@ -51,17 +53,22 @@
 <a href="https://git-scm.com"><img src="images/Git.png" alt="Git" title="Git" height="40" width="40"></a>
 <a href="https://www.postman.com"><img src="images/Postman.png" alt="Postman" title="Postman" height="40" width="40"></a>
 <a href="https://render.com"><img src="images/Render.png" alt="Render" title="Render" height="40" width="40"></a>
+<a href="https://vercel.com"><img src="images/Vercel.jpg" alt="Vercel" title="Vercel" height="40" width="40"></a>
 
 ---
 
 <h3> <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Loading"></a> &nbsp Learning &nbsp <a href="https://github.com/BenjaMura"><img src="images/Loading.gif" alt="Loading" width="40" title="Coming soon!"></a> </h3>
 
 <a href="https://www.typescriptlang.org"><img src="images/Typescript.png" alt="Typescript" title="Typescript" height="40" width="40"></a>
+<a href="https://nestjs.com/"><img src="images/Nestjs.png" alt="Nestjs" title="Nestjs" height="40" width="40"></a>
+<a href="https://nextjs.org/"><img src="images/Nextjs.jpg" alt="Nextjs" title="Nextjs" height="40" width="40"></a>
 <a href="https://tailwindcss.com"><img src="images/Tailwind.png" alt="Tailwind" title="Tailwind" height="40" width="40"></a>
 <a href="https://getbootstrap.com"><img src="images/Bootstrap.png" alt="Bootstrap" title="Bootstrap" height="40" width="40"></a>
 <a href="https://mochajs.org"><img src="images/Mocha.png" alt="Mocha" title="Mocha" height="40" width="40"></a>
 <a href="https://vitest.dev"><img src="images/Vitest.png" alt="Vitest" title="Vitest" height="40" width="40"></a>
+<a href="https://www.mongodb.com"><img src="images/Mongo.png" alt="Mongodb" title="Mongodb" height="40" width="40"></a>
 <a href="https://www.netlify.com"><img src="images/Netlify.png" alt="Netlify" title="Netlify" height="40" width="40"></a>
+<a href="https://www.figma.com/"><img src="images/Figma.png" alt="Figma" title="Figma" height="40" width="40"></a>
 
 ---
 
